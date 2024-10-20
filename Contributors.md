@@ -1,6 +1,8 @@
 # Contributors
 - hello my name is riya
 - Hello My name is Preston Mayieka (https://github.com/preston176)
+
+- sushmita majumder
 - Hey 👋 I'm [HorebZ](https://github.com/HorebZ)
 - Hello i am Dorin.
 - Hi, I'm Faizan Hussain. <a href="https://github.com/faiizanhussain/">Let's connect</a>
